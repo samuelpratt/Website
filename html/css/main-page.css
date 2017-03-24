@@ -11,6 +11,14 @@ body {
     font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive
 }
 
+.name-banner {
+    background-image: url("../img/name-banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
