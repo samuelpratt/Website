@@ -13,3 +13,9 @@ This is built using: -
 * jQuery https://jquery.com/
 * Font Awesome http://fontawesome.io/
 * https://fonts.google.com/
+
+## Run
+
+~~~
+docker build -t website . && docker run  -p 80:80 website
+~~~
